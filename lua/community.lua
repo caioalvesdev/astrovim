@@ -10,5 +10,14 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.tokyonight" },
+  {import = "astrocommunity.pack.html-css"},
+  {import = "astrocommunity.pack.json"},
+  {import = "astrocommunity.pack.markdown"},
+  {import = "astrocommunity.pack.php"},
+  {import = "astrocommunity.pack.prisma"},
+  {import = "astrocommunity.pack.python"},
+  {import = "astrocommunity.pack.tailwindcss"},
+  {import = "astrocommunity.pack.typescript"},
+  {import = "astrocommunity.pack.typescript-all-in-one"}
   -- import/override with your plugins folder
 }
